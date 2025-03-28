@@ -1,0 +1,26 @@
+{
+
+  "main": "app.js",
+
+  "type": "module",
+
+  "dependencies": {
+
+    "chalk": "^5.4.1",
+
+    "express": "^4.21.2",
+
+    "node-fetch": "^3.3.2"
+
+  },
+
+  "scripts": {
+
+    "start": "node ./app.js",
+
+    "dev": "nodemon ./app.js"
+
+  }
+
+}
+
